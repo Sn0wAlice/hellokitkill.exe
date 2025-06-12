@@ -1,16 +1,18 @@
 # HelloKitKill.exe
 
-> ⚠️ Projet à but éducatif uniquement. N'utilisez **jamais** ce code de manière malveillante.
+> ⚠️ Educational project only. Never use **this code maliciously.
 
-**HelloKitKill.exe** est un ransomware simplifié écrit en Rust, conçu pour illustrer les mécanismes fondamentaux des ransomwares modernes dans un cadre pédagogique (CTF, formation SOC, blue team).
+**HelloKitKill.exe** is a simplified ransomware written in Rust, designed to illustrate the fundamental mechanisms of modern ransomware in an educational setting (CTF, SOC training, blue team).
 
-## Fonctionnalités
+## Features
 
-- Chiffrement de fichiers avec AES-256 (mode CBC) (home made)
+- File encryption with AES-256 (CBC mode) (home made)
+
+> realistic ransomware asap
 
 ## Usage
 
-> 🧪 À exécuter uniquement dans une VM isolée ou un environnement sécurisé.
+> 🧪 To run only in a single VM or secure environment.
 
 
 ```bash
@@ -18,6 +20,6 @@ cargo build --release
 ./target/release/hellokitkill --help
 ```
 
-## Avertissement
+## Warning
 
-Ce code est strictement éducatif. L’utilisation de ce type de programme sur des systèmes réels sans autorisation est illégale.
+This code is strictly educational. Using this type of program on real systems without authorization is illegal.
