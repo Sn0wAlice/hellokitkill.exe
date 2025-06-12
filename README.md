@@ -2,7 +2,7 @@
 
 > ⚠️ Projet à but éducatif uniquement. N'utilisez **jamais** ce code de manière malveillante.
 
-**RustEduRansom** est un ransomware simplifié écrit en Rust, conçu pour illustrer les mécanismes fondamentaux des ransomwares modernes dans un cadre pédagogique (CTF, formation SOC, blue team).
+**HelloKitKill.exe** est un ransomware simplifié écrit en Rust, conçu pour illustrer les mécanismes fondamentaux des ransomwares modernes dans un cadre pédagogique (CTF, formation SOC, blue team).
 
 ## Fonctionnalités
 
