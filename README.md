@@ -6,10 +6,7 @@
 
 ## Fonctionnalités
 
-- Chiffrement de fichiers avec AES-256 (mode CBC)
-- Génération de clé aléatoire
-- Écriture d’une note de rançon (`README_RESTORE.txt`)
-- Ciblage d’un répertoire spécifique
+- Chiffrement de fichiers avec AES-256 (mode CBC) (home made)
 
 ## Usage
 
