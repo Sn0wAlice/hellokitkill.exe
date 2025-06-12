@@ -1,6 +1,6 @@
 # HelloKitKill.exe
 
-> ⚠️ Educational project only. Never use **this code maliciously.
+> ⚠️ Educational project only. Never use **this code maliciously.**
 
 **HelloKitKill.exe** is a simplified ransomware written in Rust, designed to illustrate the fundamental mechanisms of modern ransomware in an educational setting (CTF, SOC training, blue team).
 
